@@ -1,0 +1,4 @@
+https://help.github.com/articles/generating-an-ssh-key/
+
+ssh-keygen -t rsa -b 4096 -C "liandy868@gmail.com"
+ssh -T git@bitbucket.org
